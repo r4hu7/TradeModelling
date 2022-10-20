@@ -13,3 +13,6 @@
   - [ ] Try to find patterns between features
   - [ ] Show impact/spread of categorical variables
 
+# Useful Resources
+
+https://www.kaggle.com/code/shahules/xgboost-feature-selection-dsbowl/notebook
